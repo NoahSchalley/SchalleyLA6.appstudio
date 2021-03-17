@@ -14,27 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "lblOutput.json"
+        "Card1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "inptNewName.json"
+        "Switch1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "btnAdd.json"
+        "Slider1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Hamburger1.json"
       ]
     }
   ],
@@ -44,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +66,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
