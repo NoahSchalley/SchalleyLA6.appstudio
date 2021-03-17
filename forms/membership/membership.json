@@ -9,7 +9,35 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "lblOutput.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "inptNewName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "btnAdd.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
